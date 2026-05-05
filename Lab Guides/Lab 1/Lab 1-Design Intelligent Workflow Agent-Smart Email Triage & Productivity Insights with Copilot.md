@@ -154,6 +154,18 @@ Copilot to automate email triage.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%201/media/image8.png)
 
+8. Browse C:\Labfiles\Lab1-Lab files to access the demo emails lab file.
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%201/media/labfiles.png)
+
+10. Navigate to +++https://outlook.cloud.microsoft.com+++ to open Outlook account and sign in with your Microsoft 365 Copilot account credentials. Select **New mail**.
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%201/media/outlook.png)
+
+11. Send all the demo emails in the lab file to email id -
+    “@lab.CloudPortalCredential(User1).Username”
+    
+>[!Note] Once all the demo emails are sent and visible in the inbox. These emails
+         will be used for the upcoming agent tasks.
+
 ## **Exercise 2: Build Zava Email Triage Agent**
 
 ### Task 1: Open Workflows Agent
