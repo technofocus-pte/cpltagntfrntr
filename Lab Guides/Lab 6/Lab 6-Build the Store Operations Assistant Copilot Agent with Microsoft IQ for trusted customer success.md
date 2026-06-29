@@ -1,4 +1,4 @@
-# **Build the Project Knowledge Assistant Copilot Agent with Microsoft IQ for trusted customer success**
+# **Build the Store Operations Assistant Copilot Agent with Microsoft IQ for trusted customer success**
 
 ## Lab objectives 
 
